@@ -5,7 +5,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Status-FINALIZADO-green?style=flat-square">
 </p>
 <h3>Projeto Desenvolvido como primeiro Challenge no Programa Oracle ONE da Alura</h3>
-<p>Trata-se de um sorteador de nome, onde é dado entrada em nomes, e ao clicar no botão, um destes nomes é escolhido</p>
+<p>Trata-se de um sorteador de nomes, onde é dado entrada em nomes diversos, e ao clicar no botão, um destes é sorteado</p>
 
 <h3>TECNOLOGIAS UTILIZADAS</h3>
 
